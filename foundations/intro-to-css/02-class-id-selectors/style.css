@@ -1,6 +1,11 @@
-.rhighlight {
+.rhighlight,
+.big-rhighlight {
     background-color: rgb(219, 104, 104);
     font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.big-rhighlight {
+    font-size: 24px;
 }
 
 #blue-text {
