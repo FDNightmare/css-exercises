@@ -1,4 +1,9 @@
 .rhighlight {
     background-color: rgb(219, 104, 104);
     font-family: Verdana, DejaVu Sans, sans-serif;
-}/* Add CSS Styling */
+}
+
+#blue-text {
+color: rgb(7, 7, 196);
+font-size: 36px;
+}
