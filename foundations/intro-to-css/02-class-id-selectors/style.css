@@ -1,10 +1,9 @@
-.rhighlight,
-.big-rhighlight {
+.rhighlight {
     background-color: rgb(241, 151, 151);
     font-family: Verdana, DejaVu Sans, sans-serif;
 }
 
-.big-rhighlight {
+.font-size-24 {
     font-size: 24px;
 }
 
@@ -15,6 +14,5 @@ font-size: 36px;
 
 #green-background {
     background-color: rgb(173, 236, 173);
-    font-size: 24px;
     font-weight: bold;
 }
